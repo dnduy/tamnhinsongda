@@ -1,0 +1,168 @@
+table {
+	width:auto;
+	height:auto;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 1px solid #bbb
+}
+td,th {
+    border-top: 1px solid #ddd;
+  
+}
+
+
+@media (min-width: 1200px) 
+{
+}
+
+@media (min-width: 980px) 
+{
+
+}
+
+@media (min-width: 767px) 
+{
+}
+
+@media (max-width: 1200px) 
+{
+}
+
+
+
+@media (max-width: 1120px)
+{
+} 
+
+@media (max-width: 1020px) 
+{
+
+}
+
+@media (max-width: 979px) 
+{
+	
+#container_NTT
+{
+	width:auto;
+}
+/***********************************************************START BANNER ******************************************/ 
+
+/**********************************************************END BANNER *********************************************/
+
+
+/*****************************************************START SLIDE SHOW ***********************************************/
+
+
+#slide_show
+{
+	width:auto;
+	margin:0 auto;
+}
+
+
+/********************************************************END SLIDE SHOW ***************************************************/
+
+
+/*******************************************************Start Main content *************************************************/
+
+
+#wrapper_main
+{
+	margin:0 auto;
+	width:auto;
+}
+
+/*******************************************************END Main content *************************************************/
+
+}
+
+
+@media (min-width: 980px) and (max-width: 1199px)
+{
+	
+#back-top {
+  margin-left: 0px;
+  position: fixed;
+  bottom: 85px;
+  z-index: 9999;
+  left:inherit;
+  /* left: 52%; */
+  
+  margin-right: 0px;
+}
+}
+
+
+@media (min-width: 768px) and (max-width: 979px) 
+{
+
+}
+
+
+@media (min-width: 768px) and (max-width: 1200px) 
+{
+
+}
+
+
+@media (min-width: 766px) and (max-width: 1196px) 
+{
+
+}
+
+
+@media  (max-width: 780px) 
+{
+}
+
+@media (max-width: 767px) 
+{
+
+header
+{
+	display:block;
+}
+.container {
+width: auto;
+}	
+
+
+
+/**************************************START Banner **************************************/
+
+
+
+
+/**************************************END Banner **************************************/
+
+
+
+}
+@media (max-width: 678px)
+{
+table {
+		overflow-x: scroll;
+		display: block;
+		max-width:300px !important; 
+		width:auto !important;
+		height:auto !important;
+	}
+	
+
+/********************************************Start Main Content *******************************/
+
+
+/********************************************End Main Content *******************************/
+
+
+} 
+
+@media (max-width: 555px) 
+{
+
+}
+
+@media (max-width: 480px) 
+{
+}

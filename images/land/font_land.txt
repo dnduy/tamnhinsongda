@@ -1,0 +1,9 @@
+HOTLINE,tin tuc du an: roboto medium
+menu: roboto Regular
+xem huong mua nha: roboto medium
+select: roboto light
+
+ten tin tuc: roboto black
+chuyen doi phan khuc bds: roboto medium
+tun tuc huu ich : roboto condensed
+thong ke: roboto : medium

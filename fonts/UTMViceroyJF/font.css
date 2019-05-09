@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'UTM ViceroyJF';
+  src: url('UTM ViceroyJF.eot');
+  src: url('UTM ViceroyJF.woff2') format('woff2'),
+       url('UTM ViceroyJF.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UTMViceroyJF';
+  src: url('UTMViceroyJF.woff') format('woff'),
+       url('UTMViceroyJF.ttf') format('truetype'),
+       url('UTMViceroyJF.svg#UTMViceroyJF') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+

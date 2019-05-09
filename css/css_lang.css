@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+
+#ww123-2	.testimonials_manager_widget{
+             margin: 10px 0;
+             padding:10px;
+             border: 1px dotted #dddddd;
+             background: #f4f4f4;
+            }
+
+            #ww123-2 .testimonials_manager_widget .avatar{
+             background:#FFFFFF none repeat scroll 0 0;
+             border:1px solid #DDDDDD;
+             float:right;
+             margin-right:-5px;
+             margin-top:-5px;
+			 margin-left: 5px;
+             padding:2px;
+             position:relative;
+            }
+			
+			.goog-te-banner-frame{visibility:hidden !important;}
+body {top:0px !important;}
+
+#google_language_translator { width:auto !important; }
+.goog-te-gadget .goog-te-combo {margin: 4px 0px !important;}
+.goog-tooltip {display: none !important;}
+.goog-tooltip:hover {display: none !important;}
+.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}
+
+ p.hello { font-size:12px; color:darkgray; }
+
+#google_language_translator { clear:both; width:auto !important; text-align:right; display:none; }
+
+#flags {  }
+
+p.hello { text-align:right; float:right; clear:both; color:#666; }
+
+.glt-clear { height:0px; clear:both; margin:0px; padding:0px; }
+
+#flags {  }
+
+#flags a 
+{
+display:inline-block;
+  /*padding: 5px 15px;*/
+  text-align: center;
+  /*background: #205566;*/
+  margin-left: 5px;
+  text-decoration: none;
+  color: #FFF;
+  
+  /*border: 1px solid #464646; */
+   font-family:'utmavo';
+  }
+  
+#flags a:hover 
+{
+/*background:#ad1e2d;*/
+}
+		  
+	        
+			/*#flags a.vi { background:url(images/vi.png) 0px 0px no-repeat; }
+			#flags a.en { background:url(images/en.png) 0px 0px no-repeat; }
+			#flags a.fr { background:url(images/fr.jpg) 0px 0px no-repeat; }*/
+.img_bbq
+{
+height:41px;
+line-height:41px;
+float:left;
+}

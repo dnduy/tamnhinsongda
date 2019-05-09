@@ -1,0 +1,30 @@
+.wrap-tabs{
+	width: 100%;
+	overflow: hidden;
+	position: relative;
+	text-align: center;
+	margin: 0 auto;
+}
+ul.tabs{display: inline-block;list-style:none;text-align: center;margin: 0 auto;}
+ul.tabs li{float: left;text-align: center;margin-right: 6px;}
+.contenttab{
+	max-width: 100%;
+	height: auto;
+}
+.contenttab .tab{display:block;}
+.tittle_con a{
+	line-height: 45px;
+	width: auto;
+	text-align: left;
+	font-size: 15px;
+	color: #002E5F;
+	text-transform: uppercase;
+	cursor: pointer;
+	background: #F6F6F6;
+	padding: 8px 11px;
+	border: 1px solid #ccc;
+}
+.activetab{
+	color:#fff !important;
+	background: #12861C!important;
+}

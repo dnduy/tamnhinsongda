@@ -1,0 +1,444 @@
+.content-expand {
+
+    clear: both;
+    display: none;
+	    padding: 10px 10px;
+}
+
+fieldset {
+    min-width: 0;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+#checkoutSteps .form-group
+{
+	margin:0 auto;
+}
+
+.show-info-web ul ,.onepage
+{
+	padding:0;
+	list-style:none;
+}
+.cart-step {
+    text-align: center;
+    width: 360px;
+    margin: 20px auto;
+}
+.cart-step .step, .cart-step .step-line {
+    float: left;
+    margin: 0 0 0 0;
+    padding: 0;
+}
+.cart-step .step {
+    width: 41px;
+}
+
+.cart-step .step-active .step-number {
+    background-position: -41px 0;
+}
+.payment-bg {
+    width: 19px;
+    height: 19px;
+    background: transparent url(../images/icon_thanhtoan/3.png) no-repeat scroll 100% 0%;
+    display: block;
+    float: left;
+    margin-right: 5px;
+}
+#onepage-payment {
+    padding: 15px 0 20px 0;
+}
+.cart-step .step-number {
+    width: 41px;
+    height: 41px;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+    background: url(../images/icon_thanhtoan/step.png) left top no-repeat;
+    font-size: 1.2em;
+    color: #fff;
+    line-height: 41px;
+}
+
+.cart-step .step-active .step-label {
+    color: #000;
+}
+.cart-step .step-label {
+    white-space: nowrap;
+    text-align: center;
+    margin-left: -56px;
+    display: block;
+    width: 150px;
+
+}
+
+
+
+.cart-step .step-line {
+    width: 104px;
+    height: 13px;
+    background: url(../images/icon_thanhtoan/step-line.png) left top no-repeat;
+    display: inline-block;
+    margin-top: 15px;
+}
+
+
+.cart-step .step-number {
+    width: 41px;
+    height: 41px;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+    background: url(../images/icon_thanhtoan/step.png) left top no-repeat;
+    font-size: 1.2em;
+    color: #fff;
+    line-height: 41px;
+}
+
+.cart-step .step-label {
+    white-space: nowrap;
+    text-align: center;
+    margin-left: -56px;
+    display: block;
+    width: 150px;
+    color: #c1c1c1;
+}
+.cart-step .step-line-active-full {
+    background-position: 0 -26px;
+}
+.clearfix {
+   
+}
+.clearfix {
+	clear:both;
+}
+
+
+.cart-step .step {
+    width: 41px;
+}
+
+#column-1, #column-2, #column-3 {
+
+    background: transparent url(../images/icon_thanhtoan/line-gradient.gif) no-repeat scroll 100% 0%;
+}
+.onepage li {
+    list-style: none;
+}
+
+
+
+#onepage-billing {
+    padding: 0 0 0 0;
+}
+.onepage li {
+    list-style: none;
+}
+
+
+.onepage .page-title {
+    border: none !important;
+    margin-bottom: 15px;
+}
+
+
+.page-title {
+ 
+    height: 27px;
+    margin: 0 0 10px;
+}
+
+.billing-bg {
+    width: 19px;
+    height: 19px;
+    background: transparent url(../images/icon_thanhtoan/1.png) no-repeat scroll 100% 0%;
+    display: block;
+    float: left;
+    margin-right: 5px;
+}
+
+.shipping-method-bg {
+    width: 19px;
+    height: 19px;
+    background: transparent url(../images/icon_thanhtoan/2.png) no-repeat scroll 100% 0%;
+    display: block;
+    float: left;
+    margin-right: 5px;
+}
+.review-bg {
+    width: 19px;
+    height: 19px;
+    background: transparent url(../images/icon_thanhtoan/tick-icon.png) no-repeat scroll 100% 0%;
+    display: block;
+    float: left;
+    margin-right: 5px;
+}
+.page-title h2 {
+	line-height: 23px;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #022a5d;
+
+}
+radio, .checkbox {
+    min-height: 20px;
+    padding-left: 20px;
+}
+
+.onepage .form-list {
+    width: 100%;
+    padding: 0px;
+}
+#billing-new-address-form {
+    margin: 0;
+}
+
+
+.input-region-field, .input-city-field, .shipping-city-field, .customer-name .field {
+    width: 140px;
+    float: left;
+}
+.form-list .field {
+    margin-right: 0;
+    width: auto;
+}
+
+#onepage-billing .form-list .fields input.input-text, #shipping-new-address-form input.input-text {
+    width: 284px;
+    padding: 3px 2px;
+}
+
+
+
+.input-city-field, .shipping-city-field, .customer-name .field.name-lastname {
+    margin-left: 10px;
+}
+
+
+#onepage-billing .form-list .fields input.input-text, #shipping-new-address-form input.input-text {
+    width: 284px;
+    padding: 3px 2px;
+}
+
+
+.required em {
+    color: red;
+    margin-right: 5px;
+}
+#onepage-billing .form-list select {
+    padding: 2px 2px;
+}
+.input-region-field select, .input-city-field select, .shipping-city-field select, .customer-name .field input {
+    width: 96% !important;
+}
+select {
+    width: 220px;
+    border: 1px solid #cccccc;
+    background-color: #ffffff;
+}
+
+#column-2 {
+
+}
+#onepage-shipping_method {
+    padding: 0;
+}
+
+#column-3 {
+
+}
+#column-3 {
+
+}
+
+.review-bg {
+    width: 19px;
+    height: 19px;
+    background: transparent url(../images/icon_thanhtoan/tick-icon.png) no-repeat scroll 100% 0%;
+    display: block;
+    float: left;
+    margin-right: 5px;
+}
+
+#checkout-review-load {
+    padding: 0 0 10px 0;
+}
+
+#checkout-review-load table.onestepcheckout-summary {
+    display: table;
+}
+table.onestepcheckout-summary {
+    width: 100%;
+}
+.onestepcheckout-summary, .onestepcheckout-totals {
+    border-collapse: collapse;
+}
+table {
+    max-width: 100%;
+    background-color: transparent;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.onestepcheckout-coupons {
+    margin: 0 0 10px 0px;
+    overflow: hidden;
+}
+
+.onestepcheckout-coupons #couponcode {
+    float: left;
+    height: 27px;
+    margin-right: 5px;
+    width: 163px;
+}
+.onestepcheckout-coupons input.input-text {
+    margin-bottom: 5px;
+}
+
+
+.onestepcheckout-coupons #coupon_err_msg {
+    color: #df280a;
+}
+
+.input-region-field, .input-city-field, .shipping-city-field, .customer-name .field {
+    width: 140px;
+    float: left;
+}
+
+#onepage-billing .form-list .fields input.input-text, #shipping-new-address-form input.input-text {
+    width: 284px;
+    padding: 3px 2px;
+}
+.input-region-field select, .input-city-field select, .shipping-city-field select, .customer-name .field input {
+    width: 96% !important;
+}
+textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input {
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -webkit-transition: border linear .2s, box-shadow linear .2s;
+    -moz-transition: border linear .2s, box-shadow linear .2s;
+    -o-transition: border linear .2s, box-shadow linear .2s;
+    transition: border linear .2s, box-shadow linear .2s;
+}
+select, textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input {
+    display: inline-block;
+
+    padding: 4px 6px;
+    margin-bottom: 10px;
+   
+
+    color: #555555;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    vertical-align: middle;
+}
+input, textarea, .uneditable-input {
+    margin-left: 0;
+}
+
+input-city-field, .shipping-city-field, .customer-name .field.name-lastname {
+    margin-left: 10px;
+}
+.input-region-field, .input-city-field, .shipping-city-field, .customer-name .field {
+    width: 140px;
+    float: left;
+}
+
+#checkout-review-load table.onestepcheckout-summary {
+    display: table;
+}
+table.onestepcheckout-summary {
+    width: 100%;
+}
+.onestepcheckout-summary, .onestepcheckout-totals {
+    border-collapse: collapse;
+}
+
+#onepage-review table.onestepcheckout-summary thead {
+    border-bottom: 1px solid #ccc;
+}
+#checkout-review-table-wrapper tr {
+    border-bottom: 1px solid #ccc;
+}
+#onepage-review table.onestepcheckout-summary th.name, th.qty, th.total {
+    min-width: 75px;
+    font-weight: bold;
+    color: #666;
+    text-align: left;
+    font-size: 13px;
+}
+#checkout-review-load table.onestepcheckout-summary tr th {
+    border-bottom: 1px solid #ccc;
+}
+#checkout-review-table-wrapper tr th {
+    padding: 2% 0;
+}
+
+#checkout-review-table tr td.a-left {
+    text-align: right;
+}
+#checkout-review-table tr td {
+    padding: 5px 2px 5px 2px;
+    color: #666;
+}
+table.onestepcheckout-summary tfoot td {
+    background-color: #f6f6f6;
+}
+.a-left {
+    float: none !important;
+}
+
+
+#checkout-review-table tr td {
+    padding: 5px 2px 5px 2px;
+    color: #666;
+}
+.a-right, .a-right.last {
+    text-align: right;
+}
+
+table.onestepcheckout-summary tfoot td {
+    background-color: #f6f6f6;
+}
+tfoot .price {
+    color: #e40000;
+}
+#checkout-review-table-wrapper tr {
+    border-bottom: 1px solid #ccc;
+}
+
+#checkout-review-table tr td.a-left {
+    text-align: right;
+}
+#checkout-review-table tr td {
+    padding: 5px 2px 5px 2px;
+    color: #666;
+    font-size: 13px;
+    text-align: Center;
+}
+table.onestepcheckout-summary tfoot td {
+    background-color: #f6f6f6;
+}
+.a-left {
+    float: none !important;
+}
+#checkout-review-submit
+{
+	float:right;
+}
+#review-btn{
+	    padding: 10px 18px !important;
+}
+
+.button
+{
+	padding:8 10px;
+	margin:0 auto;
+	border-radius:5px;
+}

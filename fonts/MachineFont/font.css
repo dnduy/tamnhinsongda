@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Machine Regular';
+  src: url('Machine Regular.eot');
+  src: url('Machine Regular.woff2') format('woff2'),
+       url('Machine Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MachineFont';
+  src: url('MachineFont.woff') format('woff'),
+       url('MachineFont.ttf') format('truetype'),
+       url('MachineFont.svg#MachineFont') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+

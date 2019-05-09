@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'UVN Mua Thu';
+  src: url('UVN Mua Thu.eot');
+  src: url('UVN Mua Thu.woff2') format('woff2'),
+       url('UVN Mua Thu.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UVNMuaThu';
+  src: url('UVNMuaThu.woff') format('woff'),
+       url('UVNMuaThu.ttf') format('truetype'),
+       url('UVNMuaThu.svg#UVNMuaThu') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+

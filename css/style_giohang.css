@@ -1,0 +1,127 @@
+.bg-top-cart {
+    font-weight: bold;
+    color: #000;
+    height: 25px;
+    background: #e6e6e6;
+}
+
+span.delimg {
+    width: 22px;
+    height: 22px;
+    overflow: hidden;
+    background: url(../images/icon-cart-delete.jpg) no-repeat;
+    display: block;
+}
+
+.tongdonhang
+{
+	    background: #E6E6E6;
+    height: 20px;
+    color: #666;
+    padding: 5px;
+}
+
+.button {
+    background-color: #fff;
+    background-position: initial initial;
+    background-repeat: initial initial;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    font-family: tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: normal;
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+
+
+.cart-step {
+    text-align: center;
+    width: 360px;
+    margin: 20px auto;
+}
+.cart-step .step, .cart-step .step-line {
+    float: left;
+    margin: 0 0 0 0;
+    padding: 0;
+}
+.cart-step .step {
+    width: 41px;
+}
+
+.cart-step .step-active .step-number {
+    background-position: -41px 0;
+}
+
+.cart-step .step-number {
+    width: 41px;
+    height: 41px;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+    background: url(../images/step.png) left top no-repeat;
+    font-size: 1.2em;
+    color: #fff;
+    line-height: 41px;
+}
+
+.cart-step .step-active .step-label {
+    color: #000;
+}
+.cart-step .step-label {
+    white-space: nowrap;
+    text-align: center;
+    margin-left: -56px;
+    display: block;
+    width: 150px;
+
+}
+
+
+
+.cart-step .step-line {
+    width: 104px;
+    height: 13px;
+    background: url(../images/step-line.png) left top no-repeat;
+    display: inline-block;
+    margin-top: 15px;
+}
+
+
+.cart-step .step-number {
+    width: 41px;
+    height: 41px;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+    background: url(../images/step.png) left top no-repeat;
+    font-size: 1.2em;
+    color: #fff;
+    line-height: 41px;
+}
+
+.cart-step .step-label {
+    white-space: nowrap;
+    text-align: center;
+    margin-left: -56px;
+    display: block;
+    width: 150px;
+    color: #c1c1c1;
+}
+.cart-step .step-line-active-full {
+    background-position: 0 -26px;
+}
+.clearfix {
+    display: block;
+}
+
+
+
+.cart-step .step {
+    width: 41px;
+}

@@ -1,0 +1,75 @@
+/*--------------------------START paging-----------------------------*/
+.wrap_paging {
+	margin:10px auto;
+	
+	position: relative;
+	width: 100%;
+	    padding: 0px 0px;
+	text-align: right;
+}
+.wrap_paging_top {
+	position: relative;
+	width: 100%;
+	padding: 7px 0px;
+	border-top: 1px dashed #CCC;
+	border-bottom: 1px dashed #CCC;
+	text-align: right;
+}
+.paging {
+	margin:0px auto;
+	text-align:center;
+}
+ul.pages li a i
+{
+
+		position:relative;
+}
+.paging a {
+	float: left;
+	   
+	margin-right: 5px;
+	width: 25px;
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	border: 1px solid #CCC;
+	background: #f9f9f9;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	border-radius: 3px;
+	color: #000;
+	font-weight: bold;
+}
+.paging a.paginate_active {
+	background: #2ba40d;
+	border: 1px solid #27910d;
+	color: #FFF;
+}
+.paging a:hover {
+	background: #CCC;
+}
+.paging a.paginate_active:hover {
+	background: #2ba40d;
+	border: 1px solid #27910d;
+	color: #FFF;
+}
+
+.pages {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+.pages li {
+	/*float: left;*/
+	    display: inline-block;
+	margin-right: 5px;
+}
+.pages li a.active {
+	background: #1260ab;
+	  border: 1px solid #1260ab;
+	  color: #FFF;
+}
+
+/*--------------------------END paging-----------------------------*/

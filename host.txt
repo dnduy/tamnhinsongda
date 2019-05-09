@@ -1,0 +1,21 @@
+Username:       ducgangthu
+Password:       4O6jOkBJ
+Domain:         ducgangthuanduc.com
+
+To log in immediately, follow this link, using your username and password:
+
+http://210.2.64.69:2222
+
+Once your domain resolves, you will be able to follow this link:
+
+http://www.ducgangthuanduc.com:2222
+------------------------------------------
+Database:	ducgangthu_db
+Host:	localhost
+Username:	ducgangthu_db
+Password:	9HDOl7tm
+---------------------
+Username:	mail@ducgangthuanduc.com
+Password:	dfsxAZC9lw
+Pop3 Server:	mail.ducgangthuanduc.com
+Smtp Server:	mail.ducgangthuanduc.com

@@ -1,0 +1,188 @@
+/*----------------TIN TUC-----------------*/
+
+
+.title-info-detail
+{
+  margin:0 auto;
+  width:890px;
+  padding: 0 0 10px 0px;
+}
+.title-info-detail h3.title-info-detail
+{
+  margin:0 auto;
+  font-family:robotoregular;
+  font-size:18px;
+  color:#000;
+
+  
+} 
+
+.show-pro
+{
+	margin:0px auto;
+}
+.show-info-add
+{
+	margin:25px auto;
+}
+.download-file
+{
+    margin: 0 auto;
+    text-align: center;
+    height: 50px;
+}
+.download-file a 
+{
+	background:#d90000;
+	color:#fff;
+	    font-family: 'robotoregular';
+	margin:0 auto;
+
+	padding:10px 10px;
+	font-size:18px;
+}
+.box_news {
+        padding-bottom: 15px;
+    margin-right: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: left;
+    width: 48%;
+}
+.box_news .image_boder
+{
+	margin: 0 auto;
+    padding: 0 0 0 0;
+    text-align: center;
+}
+.box-right-news
+{
+    float: right;
+    width: 260px;
+}
+.box_news h4 {
+    font-size: 12px;
+}
+.box_news h4 a {
+    color: #0069d2;
+	text-transform:capitalize;
+	font-weight:bold;
+	font-size: 13px;
+}
+.box_news p {
+    margin: 0;
+    padding: 0;
+}
+
+.box_news p.news_mota{
+	text-align: justify;
+}
+
+p.small {
+    color: #666666;
+    font-size: 11px;
+}
+.box_news h4 a:hover
+{
+    color:#007dac;
+}
+.box_news h4 a:hover {
+    color: #e90000;
+}
+.date-post
+{
+    margin: 5px auto;
+    padding: 5px 0px 5px 5px;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+
+.date-post i{
+	padding-right:5px;
+	
+}
+.date-post span
+{
+    text-align: right;
+    float: right;
+}
+.image_boder {
+background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #ddd;
+    float: left;
+    margin: 0 0px;
+    padding: 3px;
+    max-width: 280px;
+    max-height: 165px;
+}
+.image_boder a img {
+
+}
+li.chitiet-news {
+  white-space:nowrap;
+margin-top: 10px;
+margin-right: 25px;
+padding: 5px 10px 5px 10px;
+background: #2083F4;
+float:left;
+list-style: none;
+text-decoration: none;
+}
+li.chitiet-news:hover{
+  background:#e90000;
+}
+li.chitiet-news > a {
+color: #fff;
+font-size: 13px;
+display:block;
+}
+
+.tintuc-box .box_news {
+    padding-bottom: 15px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+     float: none;
+    width: auto; 
+}
+.tintuc-box .box-right-news {
+    
+}
+/*-------------CHI TIET (TIN TUC)--------------------*/
+
+.title_news{
+	color: #000;
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: capitalize;
+}
+
+.othernews {
+  color: #FF0000;
+  padding-left:10px;
+  padding-top:20px;
+  padding-bottom:15px;
+}
+
+.othernews h3 {
+  color:#FF0000;
+  font-size:12px;
+  font-weight:bold;
+  text-transform:uppercase;
+}
+.othernews ul {
+  list-style:inside;
+  margin:10px 0 0 0;
+  padding:0;
+}
+
+.othernews ul li {
+	list-style:none;
+	background: url(../images/icon_others.png) no-repeat 0px;
+  padding-left:10px;
+  margin:0 0 5px 0;
+}
+
+.othernews ul li a:hover{
+	text-decoration:underline;
+}

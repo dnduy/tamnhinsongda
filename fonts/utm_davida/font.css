@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'UTM Davida';
+  src: url('UTM Davida.eot');
+  src: url('UTM Davida.woff2') format('woff2'),
+       url('UTM Davida.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UTMDavida';
+  src: url('UTMDavida.woff') format('woff'),
+       url('UTMDavida.ttf') format('truetype'),
+       url('UTMDavida.svg#UTMDavida') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
